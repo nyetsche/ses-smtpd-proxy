@@ -1,3 +1,10 @@
+# FORKED COPY
+
+*This repo* removes vault support and uses the AWS SDK "all" credential
+provider (that is, the SDK goes through in order of metadata, environment
+variables, static credentials, etc.).
+
+
 # SMTP to SES Mail Proxy
 
 This is a tiny little proxy that speaks unauthenticated SMTP on the front side

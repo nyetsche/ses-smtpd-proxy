@@ -1,4 +1,4 @@
-module code.crute.us/mcrute/ses-smtpd-proxy
+module github.com/nyetsche/ses-smtpd-proxy
 
 go 1.18
 

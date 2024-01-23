@@ -6,10 +6,10 @@ import (
 	"log"
 	"os"
 
-	"code.crute.us/mcrute/ses-smtpd-proxy/smtpd"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/ses"
+	"github.com/nyetsche/ses-smtpd-proxy/smtpd"
 )
 
 const (
